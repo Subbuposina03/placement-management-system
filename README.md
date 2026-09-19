@@ -42,4 +42,4 @@ The project includes queries to:
 
 ## Author
 
-Subrahmanyeswara Swamy Posina
+Posina Subrahmanyeswara Swamy 
